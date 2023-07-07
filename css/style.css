@@ -318,7 +318,7 @@ button:focus {
     opacity: 0;
     position: absolute;
     top: -20px;
-    right: 16px;
+    right: 10px;
     width: 28px;
     height: 28px;
     line-height: 28px;
