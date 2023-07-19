@@ -1,3 +1,3 @@
 'use strict';
 
-new Typeit('.home__title--strong').go();
+new TypeIt('.home__title--strong').go();
