@@ -11,10 +11,10 @@ new TypeIt('.home__title--strong', {
 .delete() //|
 .type('아이큐 500') //Front-end Engineer|
 .pause(1000)
-.delete(7) //| Engineer
+.delete() //| Engineer
 .type('마라톤 세계 신기록을 가진 사람') //Back-end| Engineer
 .pause(1000)
-.delete(17) // | Engineer
+.delete() // | Engineer
 .type('이 세상에서 가장 자유로운 사람') //Full-stack| Engineer
 .pause(1000)
 .move(17) //Full-stack Engineer|
